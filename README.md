@@ -9,12 +9,12 @@
 
 ## 📚 教程导航
 
-[`零基础openmp/SAMP gtasa联机服务器开发教程 - 第一章`](./open.mp-beginner-tutorial-1.md)
-[`零基础openmp/SAMP gtasa联机服务器开发教程 - 第二章`](./open.mp-beginner-tutorial-2.md)
-[`零基础openmp/SAMP gtasa联机服务器开发教程 - 第三章(终篇)`](./open.mp-beginner-tutorial-3.md)
-[`samp/openmp gtasa联机服务器 MySQL 数据库教程`](./open.mp-beginner-tutorial-mysql.md)
-[`SAMP 迁移到 openmp 完整指南 + pawn 编译报错全解析`](./open.mp-beginner-tutorial-dev.md)
-[`（有c++经验者可选）openmp/samp gtasa联机服务器插件开发 完全指南`](./open.mp-beginner-tutorial-plugin-dev.md)
+- [`零基础openmp/SAMP gtasa联机服务器开发教程 - 第一章`](./open.mp-beginner-tutorial-1.md)
+- [`零基础openmp/SAMP gtasa联机服务器开发教程 - 第二章`](./open.mp-beginner-tutorial-2.md)
+- [`零基础openmp/SAMP gtasa联机服务器开发教程 - 第三章(终篇)`](./open.mp-beginner-tutorial-3.md)
+- [`samp/openmp gtasa联机服务器 MySQL 数据库教程`](./open.mp-beginner-tutorial-mysql.md)
+- [`SAMP 迁移到 openmp 完整指南 + pawn 编译报错全解析`](./open.mp-beginner-tutorial-dev.md)
+- [`（有c++经验者可选）openmp/samp gtasa联机服务器插件开发 完全指南`](./open.mp-beginner-tutorial-plugin-dev.md)
 
 ---
 
